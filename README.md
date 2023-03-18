@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring new languages and frameworks.
 
-- :zap: In my free time, I create full stack applications.
+- :zap: In my free time I like to play video games, go to the gym and go out with friends.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MannyLittle-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manny-little-460224243/)
 ---
